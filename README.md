@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **WEB Devlopment IOS and Android Application Development for E-Commerce Full stack project with React Native and React Js**
 
-- 🌱 I’m currently learning **React Native , MySql , Python , MongoDB .api**
+- 🌱 I’m currently learning **React Native , MySql , Python , MongoDB , API**
 
 - 📫 How to reach me **mr.kalpesh01@gmail.com**
 
